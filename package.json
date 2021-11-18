@@ -1,0 +1,21 @@
+{
+  "name": "puzzle_solver",
+  "version": "1.0.0",
+  "description": "Puzzle solver",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "two_number": "ts-node-dev --respawn --transpile-only ./src/TwoNumberPuzzle.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tussinb/puzzle_solver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {}
+}
