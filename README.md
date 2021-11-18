@@ -6,7 +6,7 @@ npm i
 
 npm run two_number
 
-## result
+### result
 
 > There are 4851 possible pairs of a and b\
 > sentence 1 : 3076 possible answer/s\
